@@ -17,6 +17,9 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
+def cost():
+    return
 
 if __name__ == '__main__':
+    cost()
     main()
