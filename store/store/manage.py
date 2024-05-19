@@ -20,6 +20,10 @@ def main():
 def cost():
     return
 
+def reverse_list(list: lost ):
+
+    return  list
+
 if __name__ == '__main__':
     cost()
     main()
