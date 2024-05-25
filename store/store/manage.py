@@ -27,3 +27,6 @@ def reverse_list(list: lost ):
 if __name__ == '__main__':
     cost()
     main()
+
+
+    print('hello python - i`ll back - soon')
