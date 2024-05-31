@@ -30,3 +30,4 @@ if __name__ == '__main__':
 
 
     print('hello python - i`ll back - soon')
+    print(' I come soon')
